@@ -1,0 +1,9 @@
+{
+    "html.format.indentInnerHtml": true,
+    "editor.formatOnSave": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.jsxBracketSameLine": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "auto-close-tag.fullMode": true
+}
